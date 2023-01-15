@@ -30,7 +30,7 @@ _If no activity is detected for 5 minutes, then the entry for the student is rem
 
 **Can I opt out?**
 
-_Yes. In the top left of the Live display you will see an 'appear offline' checkbox. If you check this then you will not appear in the live display until you check it again. This will not affect other metrics._
+_Yes. In the top left of the Live display you will see an 'Share Presence' checkbox. If you check this then you will not appear in the live display until you check it again. This will not affect other metrics._
 
 **In the live display, my profile picture and name are incorrect?**
 
