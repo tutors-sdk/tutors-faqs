@@ -34,4 +34,4 @@ _Yes. In the top left of the Live display you will see an 'Share Presence' check
 
 **In the live display, my profile picture and name are incorrect?**
 
-_These values are drawn from your GitHub profile - you can reset them there. Log our from Tutors and Log in agan to see updated profile information._
+_These values are drawn from your GitHub profile - you can reset them there. Log out from Tutors and Log in agan to see updated profile information._
