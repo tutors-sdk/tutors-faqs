@@ -39,3 +39,7 @@ _Anonymised versions of the data may be used for research purposes_
 **If I think the data is inaccurate, what should I do?**
 
 _You may be correct! - this is an experimental system. If you notice any anomalies please contact your lecturer_
+
+**Can I see how this data is gathered?**
+
+_The data is collected within the [Tutors Course Reader](https://github.com/tutors-sdk/tutors). The [Analytics Service](https://github.com/tutors-sdk/tutors/blob/development/packages/tutors-reader-lib/src/services/analytics-service.ts) is where the information is coallated and saved_
